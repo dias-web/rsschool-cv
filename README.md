@@ -1,1 +1,1 @@
-https://dias-web.github.io/rsschool-cv/cv
+https://dias-web.github.io/rsschool-cv/
