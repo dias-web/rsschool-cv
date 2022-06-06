@@ -17,6 +17,8 @@
 
 ## About myself:
 
+Decided to change careers. I am currently studying front-end technologies.
+
 ---
 
 ## Skills:
